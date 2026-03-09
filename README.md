@@ -8,13 +8,7 @@ This repository contains a calculator for the application of the simplesso algor
 
 ## How to use it
 
-Download the repository using the command:
-
-```python
-git clone https://github.com/ianncris/simplex-algorithm.git
-```
-
-Then from the folder start the program:
+Download the repository using the button *<> Code*, then from the folder start the program:
 
 ```python
 python Simplex.py
