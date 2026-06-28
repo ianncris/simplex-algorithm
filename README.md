@@ -1,5 +1,7 @@
 # Simplex Algorithm Calculator
 
+[![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://skillicons.dev)
+
 This repository contains a calculator for the application of the simplesso algorithm, implemented in Python, entirely from terminal. It is a low-level project used in the university environment.
 
 ## Requirements
